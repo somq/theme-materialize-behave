@@ -6,7 +6,7 @@ This repo. is a porting of [saadq/Materialize/Behave theme](https://github.com/s
 ### See what it looks like at author's repository:
 https://github.com/fnky/behave-theme
 
-
+---
 
 ### Install
 
