@@ -1,0 +1,22 @@
+{
+    "name": "theme-materialize-behave",
+    "displayName": "theme-materialize-behave",
+    "description": "Materialize Behave",
+    "version": "0.0.1",
+    "publisher": "somq",
+    "engines": {
+        "vscode": "^1.17.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Materialize Behave",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Materialize Behave-color-theme.json"
+            }
+        ]
+    }
+}
