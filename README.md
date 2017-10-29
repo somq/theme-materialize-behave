@@ -1,4 +1,4 @@
-# "theme-materialize-behave" README
+# Materialize - Behave for vscode
 
 This repo. is a porting of [saadq/Materialize/Behave theme](https://github.com/saadq/Materialize/blob/master/schemes/Material%20Behave.tmTheme) 
 
